@@ -1,0 +1,22 @@
+                                                         SQL(Structured query language)
+      Pl                     SQL
+User ---------> Application -----------> Database.
+
+Pl(Programing language)==> uses in C,C++,Java,Python....etc.
+
+Query --->  Single line command
+
+Structured ---> Define formatting 
+           ---> Table(Rows:Colmun)
+           ---> keys:values
+           
+
+>>> RDBMS (User in table format)
+>>> No-SQL Database(User in keys and values format)
+
+        SQL FOR RDBMS:
+                      Requirements:
+                                     Server: remote machine 
+                                     SQL Engine:
+                                     Query Editor:
+
